@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 </div>
 <p align="center">
-👋 Hi, I’m @JoelVStan
+👋 Hi, I’m Joel Stanley
 <p align="center">
 👀 I’m interested in Python coding
 <p align="center">

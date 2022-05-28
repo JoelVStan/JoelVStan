@@ -36,7 +36,7 @@ FIND ME ⤵
 </div>
 
 ### :man_technologist: About Me :
-I am a Noobie Python Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Python Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: My aim is to become a Python developer. I started working for it very lately. But, better late than never.
 
@@ -50,7 +50,7 @@ I am a Noobie Python Programmer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### :hammer_and_wrench: Languages I studied :
+### :hammer_and_wrench: Technologies :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

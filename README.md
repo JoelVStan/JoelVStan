@@ -36,13 +36,13 @@ FIND ME ⤵
 </div>
 
 ### :man_technologist: About Me :
-I am a Python Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a beginner in coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: My aim is to become a Python developer. I started working for it very lately. But, better late than never.
+- :telescope: My aim is to become a developer and get into a company.
 
-- :seedling: Now, I am doing small projects in Python.
+- :seedling: Currently, I am learning competitive coding, web development, android app development and preparing for placements.
 
-- :zap: I am also an engineering student.
+- :zap: Now, I am pursuing my engineering graduate degree in computer science.
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joel-varghese-stanley/)

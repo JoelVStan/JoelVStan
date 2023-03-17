@@ -36,13 +36,9 @@ FIND ME ⤵
 </div>
 
 ### :man_technologist: About Me :
-I am a beginner in coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Computer Science Engineering Graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: My aim is to become a developer and get into a company.
-
-- :seedling: Currently, I am learning competitive coding, web development, android app development and preparing for placements.
-
-- :zap: Now, I am pursuing my engineering graduate degree in computer science.
+- :telescope: Interested in coding, app development, web development and graphic designing.
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joel-varghese-stanley/)
@@ -60,6 +56,7 @@ I am a beginner in coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div> 
 

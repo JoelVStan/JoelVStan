@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Front-end web development**
 
+- 🤗 **Eagerly looking for opportunities** to leverage my skills
+
 - 📫 How to reach me **joelvstan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

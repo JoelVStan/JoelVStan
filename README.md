@@ -1,12 +1,12 @@
 <img src="https://anku255.github.io/assets/img/posts/hello-world.jpg" width="100%" />
 <h1 align="center">Hi 👋, I'm Joel Varghese Stanley</h1>
-<h3 align="center">👨‍🎓 Computer Science Engineering Graduate from Kerala, India</h3>
+<h3 align="center">👨‍🎓 Software Engineer from Kerala, India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JoelVStan&label=Profile%20views&color=0e75b6&style=flat" alt="JoelVStan" /> </p>
 
 
+- 👨‍💻 I'm working as a **Software Engineer**
 - 🌱 I’m currently learning **Front-end web development**
 - 🤵 Co-founder **[Halfway Football](https://halfwayfootball.com/)**
-- 🤗 I'm eagerly looking for **opportunities to leverage my skill**
 - 📫 How to reach me **joelvstan@gmail.com**
 
 <div> <a href="https://twitter.com/iamjoelstan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>

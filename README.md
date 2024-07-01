@@ -5,7 +5,7 @@
 
 
 - 👨‍💻 I'm working as a **Software Engineer**
-- 🌱 I’m currently learning **Front-end web development**
+- 🌱 I’m currently learning **Full-stack web development**
 - 🤵 Co-founder **[Halfway Football](https://halfwayfootball.com/)**
 - 📫 How to reach me **joelvstan@gmail.com**
 

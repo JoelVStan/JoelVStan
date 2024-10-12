@@ -7,9 +7,9 @@ Software Engineer | Web Developer
 I am a Software Engineer with over a year of experience in C# and ASP.NET, passionate about staying up-to-date with new technologies. I enjoy tackling challenges, providing technical support, and building projects that expand my skills. With a background in graphic design, I’ve also crafted visuals for social media and websites, blending creativity with code.
 
 * 🌍  I'm based in Kochi, Kerala, India
-* 🖥️  See my portfolio at [MyPortfolio](http://i-am-joetstan.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](http://i-am-joelstan.vercel.app/)
 * ✉️  You can contact me at [joelvstan@gmail.com](mailto:joelvstan@gmail.com)
-* 🧠  I'm learning Full-stack web development with ASP.NET Core MVC
+* 🧠  I'm learning Full-stack web development with ASP.NET Core, Blazor Pages and more..
 * 🤝  I'm open to collaborating on interesting projects
 * 🤵   Co-founder **[Halfway Football](https://halfwayfootball.com/)**
 
